@@ -16,7 +16,7 @@ arln_report
 
 
 
-for generating PDF reports automatically for ARLN genomes
+For generating PDF reports automatically for ARLN genomes.  This branch "main"/"master" is just for setting up a basic Python package made CLI with argparse; later branches should specify Dockerfile for dependencies, and eventually WDL wrapper for Terra.
 
 
 * Free software: GNU General Public License v3
